@@ -1,0 +1,14 @@
+Farm_Record_ID,Crop_Type,Region,Yield_per_Hectare,Outlier_Within_Crop
+FR0311,Cotton,North,0.4138211382113821,Unusually Low
+FR0366,Cotton,North,3.084870848708487,Unusually High
+FR0255,Cotton,West,5.776779026217229,Unusually High
+FR0440,Maize,Central,7.819075144508671,Unusually High
+FR0252,Maize,South,15.043086816720258,Unusually High
+FR0492,Mustard,East,0.38079331941544886,Unusually Low
+FR0594,Mustard,West,6.103837471783296,Unusually High
+FR0575,Rice,West,6.209211986681465,Unusually High
+FR0117,Rice,West,13.952000000000002,Unusually High
+FR0391,Soybean,North,0.6599373040752352,Unusually Low
+FR0278,Soybean,East,3.8378995433789953,Unusually High
+FR0209,Wheat,South,0.829126213592233,Unusually Low
+FR0469,Wheat,South,5.359955005624297,Unusually High

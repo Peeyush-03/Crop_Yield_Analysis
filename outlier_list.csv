@@ -1,0 +1,3 @@
+Farm_Record_ID,Crop_Type,Region,Season,Area_Hectares,Production_Tons,Yield_per_Hectare,Outlier_Type
+FR0252,Maize,South,Kharif,3.11,46.784,15.043086816720258,Unusually High
+FR0117,Rice,West,Kharif,20.5,286.016,13.952000000000002,Unusually High

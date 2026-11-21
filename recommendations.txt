@@ -1,0 +1,12 @@
+Agriculture Crop Yield & Weather Impact Analysis - Observations and Recommendations
+(Associations in synthetic data; no causal claims.)
+
+1. Crop type shows the largest differences: Maize has the highest average yield (5.53 t/ha) and Mustard the lowest (1.98 t/ha). Crops differ naturally in yield, so rankings should be read as descriptions of this dataset, not as advice to switch crops. Recommendation: compare farms within the same crop, and judge profitability with price and cost data.
+
+2. Irrigated records average 3.64 t/ha versus 3.34 t/ha for rain-fed records (+8.9%); after adjusting for crop type the index is 1.03 vs 0.96. Irrigation access is associated with higher yields, but farms with irrigation may also differ in soil, inputs and management. Recommendation: compare irrigated and rain-fed plots of the same crop and soil before investing.
+
+3. Rainfall has a weak positive correlation with yield (r = +0.18); High-rainfall records average 3.69 t/ha versus 3.28 t/ha for Low-rainfall records. Timing and distribution of rain are not in the data, so total rainfall alone is an incomplete picture. Recommendation: add seasonal rainfall distribution and drought/flood indicators in future data collection.
+
+4. Fertilizer use has a negligible positive correlation with yield (r = +0.06). A correlation cannot show the best dose or whether returns diminish at high levels. Recommendation: use controlled field trials with several dose levels per crop before changing fertilizer plans, and consider cost and environmental effects.
+
+5. Loamy soil has the highest average yield (3.87 t/ha) and Sandy the lowest (3.05 t/ha); Kharif is the most productive season on average and South the highest-yielding region. These patterns may reflect which crops are grown where. The IQR method flagged 2 unusual records overall (13 within crop). Recommendation: verify those records for entry errors, then investigate genuine extremes (very high or very low) for management lessons.
